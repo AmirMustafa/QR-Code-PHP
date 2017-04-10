@@ -44,32 +44,38 @@ $oQRC->display(); // Display
 
 PHP 5.2.4 or higher.
 
+## Codes Snippet
+
+
+![Screenshot of index.php page ](https://cloud.githubusercontent.com/assets/15896579/24867235/332161c8-1e2a-11e7-907f-66979897a45d.png?raw=true "Screenshot of index.php page")
+<br/><br/><br/>
+
+![Screenshot of QRCode.class.php Page 1 ](https://cloud.githubusercontent.com/assets/15896579/24867244/3b19983c-1e2a-11e7-86ed-dc3f4db5f192.png?raw=true "Screenshot of QRCode.class.php Page 1")
+<br/><br/><br/>
+
+![Screenshot of QRCode.class.php Page 2 ](https://cloud.githubusercontent.com/assets/15896579/24867248/412c4ddc-1e2a-11e7-8c49-e9a58a4e0ae0.png?raw=true "Screenshot of QRCode.class.php Page 2")
+<br/><br/><br/>
+
+
 ## Preview
 
 
-![Screenshot of LinkedIn Login API Page 1 ](https://cloud.githubusercontent.com/assets/15896579/24588640/a738540a-17e9-11e7-8598-c8584ebf0721.png?raw=true "Screenshot of LinkedIn Login API Page 1")
+![Screenshot of QR Code Page 1 ](https://cloud.githubusercontent.com/assets/15896579/24867152/ed081222-1e29-11e7-919a-0f94f88155bc.png?raw=true "Screenshot of QR Code Page 1")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 2](https://cloud.githubusercontent.com/assets/15896579/24588641/aa385376-17e9-11e7-9cf1-320aa39360f6.png?raw=true "Screenshot of LinkedIn Login API Page 2")
+![Screenshot of QR Code Page 2 ](https://cloud.githubusercontent.com/assets/15896579/24867154/ef29472e-1e29-11e7-93d4-af738c0ddc1a.png?raw=true "Screenshot of QR Code Page 2")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 3](https://cloud.githubusercontent.com/assets/15896579/24588642/aea3e736-17e9-11e7-96fa-5c13f5e54358.png?raw=true "Screenshot of LinkedIn Login API Page 3")
+![Screenshot of QR Code Page 3 ](https://cloud.githubusercontent.com/assets/15896579/24867164/fa239b66-1e29-11e7-8df4-30eef8da73c2.png?raw=true "Screenshot of QR Code Page 3")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 4](https://cloud.githubusercontent.com/assets/15896579/24588643/b25e04b0-17e9-11e7-9c65-7d3749819624.png?raw=true "Screenshot of LinkedIn Login API Page 4")
+![Screenshot of QR Code Page 4 ](https://cloud.githubusercontent.com/assets/15896579/24867188/06d01b3c-1e2a-11e7-9299-ad2b9046a01b.png?raw=true "Screenshot of QR Code Page 4")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588644/b7978ea6-17e9-11e7-80ef-595f25b69b0d.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of QR Code Page 5 ](https://cloud.githubusercontent.com/assets/15896579/24867195/0ce3e3fa-1e2a-11e7-9b37-c1b1e0ef121b.png?raw=true "Screenshot of QR Code Page 5")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588646/bca3ecfa-17e9-11e7-9489-c92a8a00ae1c.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588647/c0acdf00-17e9-11e7-98bf-7f4ee287a500.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-<br/><br/><br/>
-
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588648/c44372fa-17e9-11e7-96c9-87a907f7139a.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-
-
+![Screenshot of QR Code Page 6 ](https://cloud.githubusercontent.com/assets/15896579/24867221/257a6c5e-1e2a-11e7-9162-2855b787e09c.png?raw=true "Screenshot of QR Code Page 6")
 <br/><br/><br/>
 
 
