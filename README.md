@@ -1,41 +1,20 @@
 # QR Code
 
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/pH-7/QRCode-Generator-PHP-Class/badges/quality-score.png?s=e469a64a9ac43a7b4233f5813a7078b08a5b6956)](https://scrutinizer-ci.com/g/pH-7/QRCode-Generator-PHP-Class/)
-
 ## Description
 
 **QRCode PHP class** allows you to easily generate a simple **QR code** using **vCard** 4.0 and the Google Chart API.
 
-Here also two video explanation of QR code: http://www.youtube.com/watch?v=B3lrcOhmp9g and http://www.youtube.com/watch?v=IphTJHiKGos
+Video for basic understanding: http://www.youtube.com/watch?v=IphTJHiKGos
 
 
-## Composer Installation
+## Installation
 
- You can add it easily in your project by using [Composer](https://getcomposer.org/).
-
-
-```bash
-$ composer require ph-7/qrcode-generator-php-class
- ```
-
-Then, include Composer's autoload
-
-```PHP
-require_once 'vendor/autoload.php';
-```
-
-## Manual Installation
-
-If you don't use Composer, you can install it without Composer by simply including the class
-
-```PHP
-require 'QRCode.class.php';
-```
-
-
-## How to Use
-
-Here's a basic example:
+1. Clone this repository.
+2. Keep the project in server or local server and execute it
+3. You should have any of the QR Code Scanner installed in your phone(here I have done taking two examples follow the images below)
+4. You will get various information at present have added Name, Date and Time, Location(kept blank you can fill as per your requirement), Photo URL
+5. You will be seeing list of different classes on QRCode.class.php i.e. name, fullName, address, nickName, email, workPhone, homePhone, url, sms, birthday, anniversary, gender, categories, impp, photo, role, organization, note, bookmark, geo, lang, wifi, finish. You can call function as per your requirement. Mine requirement was only four of them
+6.In index.php page call function as per your requirement of QR Code in project. Snippet is shown below: 
 
 ```php
 /**
@@ -59,7 +38,6 @@ $oQRC->fullName('Pierre-Henry Soria') // Add Full Name
 $oQRC->display(); // Display
 ```
 
-You also have a sample file here: http://github.com/pH-7/QRCode-Generator-PHP-Class/blob/master/example.php
 
 
 ## Server Requirements
@@ -67,16 +45,3 @@ You also have a sample file here: http://github.com/pH-7/QRCode-Generator-PHP-Cl
 PHP 5.2.4 or higher.
 
 
-## Author
-
-Pierre-Henry Soria
-
-
-## Contact
-
-Contact me at: *pierrehenrysoria [[AT]] gmail [[D0T]] com*
-
-
-## License
-
-[General Public License 3](http://www.gnu.org/licenses/gpl.html) or later; See the LICENSE.txt file.
